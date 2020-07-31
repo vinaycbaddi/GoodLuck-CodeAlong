@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-31T08:16:18.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="0xzE37BLa_MhebIcjMdA" version="13.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-31T08:16:56.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="yVSem3K9o9tyG7Gc_JlY" version="13.5.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1117" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -181,7 +181,7 @@
         <mxCell id="_ffmf1GVqU57bWkAei6Z-78" value="Attempts" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ffmf1GVqU57bWkAei6Z-79" value="Entity" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="_ffmf1GVqU57bWkAei6Z-79" value="Cousre" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="391.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_ffmf1GVqU57bWkAei6Z-80" value="" style="shape=link;html=1;rounded=0;targetPerimeterSpacing=0;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" edge="1" parent="1" source="_ffmf1GVqU57bWkAei6Z-60" target="_ffmf1GVqU57bWkAei6Z-79">
